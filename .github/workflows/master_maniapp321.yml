@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'maniapp321'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f35497ee036d4356ab0e38fc33845a30 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_70ba9ba0c42e4b6186ed0b7525064fe0 }}
         package: .
